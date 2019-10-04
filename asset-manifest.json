@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.dc25f549.chunk.css",
+    "main.js": "/myapp/static/js/main.df60d046.chunk.js",
+    "main.js.map": "/myapp/static/js/main.df60d046.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.62ab92fb.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.62ab92fb.js.map",
+    "static/css/2.0624914a.chunk.css": "/myapp/static/css/2.0624914a.chunk.css",
+    "static/js/2.f1fe935c.chunk.js": "/myapp/static/js/2.f1fe935c.chunk.js",
+    "static/js/2.f1fe935c.chunk.js.map": "/myapp/static/js/2.f1fe935c.chunk.js.map",
+    "index.html": "/myapp/index.html",
+    "precache-manifest.ca13eab02fa328d97c2dbf363aea93cf.js": "/myapp/precache-manifest.ca13eab02fa328d97c2dbf363aea93cf.js",
+    "service-worker.js": "/myapp/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/myapp/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.dc25f549.chunk.css.map": "/myapp/static/css/main.dc25f549.chunk.css.map",
+    "static/media/angiecv.pdf": "/myapp/static/media/angiecv.d97b0c34.pdf",
+    "static/media/CV.css": "/myapp/static/media/coding1.e95329da.png",
+    "static/media/about.css": "/myapp/static/media/computerImage.d7771524.jpeg",
+    "static/media/contact.css": "/myapp/static/media/design1.5beaa476.jpg",
+    "static/media/india.jpg": "/myapp/static/media/india.121c8138.jpg",
+    "static/media/insta.jpg": "/myapp/static/media/insta.a551cf76.jpg",
+    "static/media/leisure.jpg": "/myapp/static/media/leisure.ec7d7ec7.jpg",
+    "static/media/App.css": "/myapp/static/media/pic1.3c28d920.jpg",
+    "static/media/sea.jpg": "/myapp/static/media/sea.e60e8152.jpg"
+  }
+}
